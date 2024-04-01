@@ -8,30 +8,30 @@
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-        "image": "./../images/chocolate-mint.svg"
+        "image": "https://sukhjot-000.github.io/jsLab4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 250,
         "type": "milkshake-type ice-cream",
         "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
-        "image": "./../images/peach-mango.svg"
+        "image": "https://sukhjot-000.github.io/jsLab4/images/chocolate-mint.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 300,
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
-        "image": "./../images/strawberry-sprinkle.svg"
+        "image": "https://sukhjot-000.github.io/jsLab4/images/chocolate-mint.svg"
     },{
         "name": "aa Mint",
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-        "image": "./../images/strawberry-sprinkle.svg"
+        "image": "https://sukhjot-000.github.io/jsLab4/images/chocolate-mint.svg"
     },{
         "name": "bb Mint",
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-        "image": "./../images/strawberry-sprinkle.svg"
+        "image": "https://sukhjot-000.github.io/jsLab4/images/chocolate-mint.svg"
     }]
 }
